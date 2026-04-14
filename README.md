@@ -1,4 +1,4 @@
-**How to run this code **
+# How to run this code
 1. Install Claude Desktop
 2. Clone project to pc
 3. Add your database information instead
