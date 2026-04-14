@@ -20,6 +20,9 @@
   }
 }
 
+<img width="499" height="349" alt="image" src="https://github.com/user-attachments/assets/581f860a-92b2-4001-a2b1-0f515dc633b3" />
+
+
 # notes 
 - you might need the full uv path 
   mac: which uv, windows: where uv
